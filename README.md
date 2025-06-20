@@ -8,8 +8,6 @@
 
 Computer Science student at Monash University with a passion for building meaningful software solutions. I love the challenge of turning complex problems into elegant code and am always eager to learn new technologies and approaches.
 
-When I'm not coding, you'll find me helping other students succeed in their studies or exploring Melbourne's coffee scene ☕
-
 - 🔭 Currently diving deep into full-stack development and system design
 - 🌱 Always learning - currently exploring cloud technologies and advanced algorithms
 - 👯 Open to collaborating on interesting projects and open-source contributions
