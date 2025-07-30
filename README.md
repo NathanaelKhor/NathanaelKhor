@@ -6,13 +6,12 @@
 
 ## 🎓 About Me
 
-Computer Science student at Monash University with a passion for building meaningful software solutions. I love the challenge of turning complex problems into elegant code and am always eager to learn new technologies and approaches.
+Computer Science student at Monash University with a passion for building meaningful software solutions
 
 - 🔭 Currently diving deep into full-stack development and system design
 - 🌱 Always learning - currently exploring cloud technologies and advanced algorithms
 - 👯 Open to collaborating on interesting projects and open-source contributions
 - 📍 Based in Melbourne, Australia
-- ⚡ Fun fact: I genuinely enjoy debugging - there's something satisfying about solving puzzles!
 
 ## 🛠️ Tech Stack
 
@@ -42,21 +41,6 @@ Computer Science student at Monash University with a passion for building meanin
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NathanaelKhor&layout=compact&langs_count=8&theme=tokyonight"/>
 </div>
 
-## 🌟 What I'm Into
-
-- **Full-Stack Development**: Building end-to-end applications that users actually want to use
-- **Clean Code**: Writing maintainable, readable code that my future self will thank me for
-- **Problem Solving**: Whether it's algorithmic challenges or real-world applications
-- **Community**: Contributing to open-source projects and helping fellow developers
-- **Teaching**: Sharing knowledge and helping others learn programming concepts
-
-## 🎯 Currently Exploring
-
-- System design patterns and scalable architectures
-- Cloud technologies and deployment strategies
-- Mobile development with React Native and Kotlin
-- Advanced data structures and algorithms
-
 ## 📫 Let's Connect!
 
 <div align="center">
@@ -67,7 +51,3 @@ Computer Science student at Monash University with a passion for building meanin
 </div>
 
 ---
-
-<div align="center">
-  <i>⭐ Always excited to collaborate on interesting projects and learn from fellow developers!</i>
-</div>
